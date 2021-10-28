@@ -1,3 +1,24 @@
-# knowledge-Site
-written with Vue Js
-There are lots of pages such as Blog,Login,Sign Up,How It Works, Contact us and so on inside of views folder. Also for routes between pages üas used Vue Router.
+# default-knowledge-site
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
