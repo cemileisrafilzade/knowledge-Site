@@ -1,4 +1,4 @@
-# default-knowledge-site
+# knowledge-site
 
 ## Project setup
 ```
